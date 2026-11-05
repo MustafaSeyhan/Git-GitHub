@@ -15,4 +15,4 @@ https://github.com/MustafaSeyhan/Git-GitHub
 
 Lisede kullanıma başlama
 Klasik kartvizit + qr kod
-Public private farkı
+Public private farkı yaz
