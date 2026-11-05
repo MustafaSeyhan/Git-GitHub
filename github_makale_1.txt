@@ -6,7 +6,7 @@ Diyelim ki C dilini öğrenmek istiyorsunuz ve yer göstericiler konusunda işle
 Topluluk projelerine katkı sağlamak neden önemli? Bilinen bir örnek üzerinden gidelim. Eğer bu yazıyı bu noktaya kadar okuduysanız muhtemelen daha önce VS Code (Visual Studio Code) programı ile de karşılaşmışsınızdır. VS Code Microsoft firmasının GitHub platformu üzerinde açık kaynaklı olarak geliştirdiği bir kodlama ortamıdır. Projenin Issues (Sorunlar/Görevler) sekmesinde Microsoft ekibinin bildirdiği çok sayıda problem başlığı bulunur. İşte bu başlıklarda çözülmesi gereken problemler listelenmiştir. Eğer projeyi inceleyip sorunu çözerseniz yaptığınız düzeltmeyi yine GitHub ortamında push edersiniz(karşıya yüklersiniz). Proje yürütücüleri onay verirse kodlarınız ana programa dahil olur. İşte bu noktada siz de VS Code geliştiricileri topluluk üyelerinde dahil olursunuz. 
 Ya kendi projeleriniz? Başka projeleri incelediniz, topluluk projelerine katkıda bulundunuz şimdi sırada kendi projelerinizi dünyaya açma vakti. İlk adımda projeniz için kendi alanınızda yeni bir repository açarak işe başlıyoruz. Sonra çalışmalarınızı buraya yüklüyor ve maharetlerinizi sergiliyorsunuz. Tabi çalışmalar sırasında ara sıra yaptığınız yüklemeleri geçmişe dönük olarak incelerken hangi adımda ne gibi değişiklikler yaptığınızı da takip edebiliyorsunuz.
 ki size ait bu profil sayfası öz geçmişinizde “bunu ben yaptım” cümlenizin kanıtı olacaktır. ***
-
+ 
 
 
 
