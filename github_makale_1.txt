@@ -8,11 +8,10 @@ Ya kendi projeleriniz? Başka projeleri incelediniz, topluluk projelerine katkı
 Her zaman bireysel bir proje yürütmeyiz. Bazen birden fazla geliştirici ile aynı çalışmayı yürütmemiz gerekebilir. Bunu da yine hesap makinesi programı üzerinden anlatalım. Bilgisayar, mobil ya da web üzerinde çalışacak bir hesap makinesi programı yapacağınızı düşünelim. İşi parçalara ayırdınız, dört işlemi yapan program modülleri, köklü işlemleri yapan program modülleri ve üslü işlemleri yapan kod modülleri  üç kişi arasında paylaşıldı. Bu durumda herkes aynı repository içinde görev paylaşımı yaparak kendi sorumluluklarındaki kodu yazar, repositoriye yükler(push işlemi). Son olarak programın tüm parçaları bir araya gelerek ortaya çalışan, büyük program çıkar. İşte örnekteki gibi bulut tabanlı GitHub sisteminin en büyük artılarından birisi de proje ortaklarının birbirinden bağımsız olarak farklı zaman ve mekanlarda aynı işi yürütebilmesidir. Bu sayede fiziki ortamdan bağımsız olarak kendi büyük projelerinizi geliştirebilirsiniz.
 GitHub’ın bu noktaya kadar sizin sorunlarınızı çözmenizde, programlarınızın farklı versiyonlarını güvenle oluşturmanızda, ekip çalışmalarınızı yönetmenizde ne gibi katkılar sağlayabileceğini gördük. Sadece bu kadar mı? Tabi ki değil. Bu platforumun en önemli özelliklerinden birisi de yaptığınız her işleme ait zaman damgasının olmasıdır. Bu zaman damgaları hangi kodu hangi tarihte yüklediniz, hangi işi kaç yaşınızda tamamladınız, VS Code gibi bir projenin neresinde ne zaman katkı sağladınız sorularının yazılı kanıtıdır. Özgeçmişinizde rahatlıkla ispat edebileceğiniz çalışmalarınız size hem iş bulmada hem de kendi işinizi yaparken müşterilerinize sunmada önemli bir referans kaynağı olacaktır. Bu referans herhangi birisin sizin adınıza yazdığı mektup değil bilakis sizin emeğinizle ortaya çıkmış bir değerdir. Size ait bu profil sayfası öz geçmişinizde “bunu ben yaptım” cümlenizin kanıtı olacaktır. 
 
-Aşağıdaki repositoryden bu makalenin yazım süreçlerini gözlemleyebilirsiniz.
+Aşağıdaki repositoryden bu makalenin yazım süreçlerini, yazılanları, silinenleri görebilirsiniz.
 https://github.com/MustafaSeyhan/Git-GitHub
 
 
 
-Lisede kullanıma başlama anlatılacak
+Lisede kullanıma başlama
 Klasik kartvizit + qr kod
-Public private farkı yaz
